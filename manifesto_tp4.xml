@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "file:/home/d3/Documents/UM/4/PRI/manifesto/manifesto.dtd">
+<manifesto>
+    <meta>
+        <id>TP4</id>
+        <título>Criação de servidor para Arquivo Musical Digital</título>
+        <dinício>8 de Outubro de 2018</dinício>
+        <dfim>14 de Outubro de 2018</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>www.di.uminho.pt/~jcr</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <id>A77048</id>
+            <nome>Eduardo Gil Ribeiro da Rocha</nome>
+            <email>a77048@alunos.uminho.pt</email>
+            <foto path="Imagens/foto.png"></foto>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>Este trabalho envolve a criação de um servidor Node.js capaz de redirecionar utilizadores para 
+        as diversas páginas do Arquivo Musical Digital criado em aulas anteriores.</para>
+        <para>O sistema deve ser capaz de reconhecer se o utilizador quer o index do arquivo ou uma obra, 
+        e caso queira a obra qual obra é que o utilizador precisa de receber exatamente.</para>
+    </resumo>
+    <resultados>
+        <resultado path="https://github.com/egrocha/PRI/tree/master/TP4">Repositório do trabalho.</resultado>
+    </resultados>
+</manifesto>
